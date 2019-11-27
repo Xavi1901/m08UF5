@@ -1,0 +1,49 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+#tabla{
+	height: 400px;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#informacion{
+	font-weight: bold;
+	text-decoration: underline;
+}
+#Nacionalidad{
+	font-weight: bold;
+	text-decoration: underline;
+}
+#Estudios{
+	font-weight: bold;
+	text-decoration: underline;
+}
+#Idiomas{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+#fieldset1{
+	background-color:#FF7C69;
+	width: 650px;
+}
+#fieldset2{
+	background-color:#69FF5C;
+	width: 650px;
+}
+#fieldset3{
+	background-color:#FF0080;
+	width: 650px;
+}
+#fieldset4{
+	background-color:#1ADBEC;
+	width: 650px;
+}
+#fieldset5{
+	background-color:#949494;
+	width: 650px;
+}
